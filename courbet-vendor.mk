@@ -355,6 +355,8 @@ PRODUCT_PACKAGES += \
     libXMFD_AgeGender \
     libadreno_utils \
     libadsp_default_listener \
+    libdirac \
+    libmisoundfx \
     libadsprpc \
     libc2d30_bltlib \
     libcamera2ndk_vendor \
