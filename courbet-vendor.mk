@@ -494,6 +494,8 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.imscmservice@2.1 \
     com.qualcomm.qti.imscmservice@2.2 \
     com.qualcomm.qti.uceservice@2.0 \
+    com.qualcomm.qti.dpm.api@1.0_vendor \
+    com.qualcomm.qti.dpm.api@1.0_system_ext \
     com.qualcomm.qti.uceservice@2.1 \
     com.qualcomm.qti.uceservice@2.2 \
     com.qualcomm.qti.uceservice@2.3 \
