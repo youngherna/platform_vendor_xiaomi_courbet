@@ -1128,15 +1128,10 @@ PRODUCT_PACKAGES += \
     CACertService \
     CneApp \
     IWlanService \
-    DeviceInfo \
-    QtiTelephony \
-    embms \
-    embmslibrary \
     SoterService \
     TimeService \
     PowerOffAlarm \
     ImsRcsService \
-    QtiTelephonyService \
     WfdService \
     dpmserviceapp \
     ims \
@@ -1147,7 +1142,6 @@ PRODUCT_PACKAGES += \
     com.qti.dpmframework \
     dpmapi \
     qcrilhook \
-    qti-telephony-common \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
     android.hardware.neuralnetworks@1.3-service-qti \
     manifest_android.hardware.drm@1.3-service.widevine \
